@@ -1,4 +1,4 @@
-{
+
   const playingClass = 'playing',
     crashRide = document.getElementById('crash-ride'),
     hiHatTop = document.getElementById('hihat-top');
@@ -62,4 +62,4 @@
   hiHatTop.addEventListener('transitionend', removeHiHatTopTransition);
 
   window.addEventListener('keydown', playSound);
-}
+

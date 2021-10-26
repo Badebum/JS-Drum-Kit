@@ -117,6 +117,7 @@ body {
 }
 
 .playing {
+  background-color: red;
   transform: scale(1.12);
 }
 

@@ -37,6 +37,7 @@
   },
   "dependencies": {
     "autoprefixer": "^10.3.4",
+    "core-js": "^3.19.0",
     "handlebars": "^4.7.7",
     "handlebars-loader": "^1.7.1"
   }
